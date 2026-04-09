@@ -54,9 +54,6 @@ It demonstrates how user authentication works using Spring Boot MVC architecture
 
 ---
 
-
----
-
 ## Learning Outcomes
 - Understanding Spring Boot MVC architecture
 - Implementing user authentication logic
